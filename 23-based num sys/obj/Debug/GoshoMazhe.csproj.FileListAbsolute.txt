@@ -1,0 +1,9 @@
+D:\Orlinovski Tapotii\NumeralSystems\GoshoMazhe\bin\Debug\GoshoMazhe.exe.config
+D:\Orlinovski Tapotii\NumeralSystems\GoshoMazhe\obj\Debug\GoshoMazhe.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\NumeralSystems\GoshoMazhe\bin\Debug\GoshoMazhe.exe
+D:\Orlinovski Tapotii\NumeralSystems\GoshoMazhe\bin\Debug\GoshoMazhe.pdb
+D:\Orlinovski Tapotii\NumeralSystems\GoshoMazhe\obj\Debug\GoshoMazhe.exe
+D:\Orlinovski Tapotii\NumeralSystems\GoshoMazhe\obj\Debug\GoshoMazhe.pdb
+D:\Orlinovski Tapotii\Testing\23-based num sys\bin\Debug\GoshoMazhe.exe.config
+D:\Orlinovski Tapotii\Testing\23-based num sys\obj\Debug\GoshoMazhe.exe
+D:\Orlinovski Tapotii\Testing\23-based num sys\obj\Debug\GoshoMazhe.pdb

@@ -1,0 +1,5 @@
+D:\Orlinovski Tapotii\Methods\IncreasingAbsoluteDifference\bin\Debug\IncreasingAbsoluteDifference.exe.config
+D:\Orlinovski Tapotii\Methods\IncreasingAbsoluteDifference\bin\Debug\IncreasingAbsoluteDifference.exe
+D:\Orlinovski Tapotii\Methods\IncreasingAbsoluteDifference\bin\Debug\IncreasingAbsoluteDifference.pdb
+D:\Orlinovski Tapotii\Methods\IncreasingAbsoluteDifference\obj\Debug\IncreasingAbsoluteDifference.exe
+D:\Orlinovski Tapotii\Methods\IncreasingAbsoluteDifference\obj\Debug\IncreasingAbsoluteDifference.pdb

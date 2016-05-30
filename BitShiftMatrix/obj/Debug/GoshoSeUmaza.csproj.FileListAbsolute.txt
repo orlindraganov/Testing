@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\Methods\GoshoSeUmaza\bin\Debug\GoshoSeUmaza.exe.config
+D:\Orlinovski Tapotii\Methods\GoshoSeUmaza\bin\Debug\GoshoSeUmaza.exe
+D:\Orlinovski Tapotii\Methods\GoshoSeUmaza\bin\Debug\GoshoSeUmaza.pdb
+D:\Orlinovski Tapotii\Methods\GoshoSeUmaza\obj\Debug\GoshoSeUmaza.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\Methods\GoshoSeUmaza\obj\Debug\GoshoSeUmaza.exe
+D:\Orlinovski Tapotii\Methods\GoshoSeUmaza\obj\Debug\GoshoSeUmaza.pdb
